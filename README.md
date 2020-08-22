@@ -1,1 +1,1 @@
-# Javascript1
+# Здесь покоятся домашние задания по курсу Javascript 1 с Geekbrains.
