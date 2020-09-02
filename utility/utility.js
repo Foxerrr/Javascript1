@@ -26,6 +26,10 @@ function addResultToDocument(taskNumber, result) {
 
 }
 
+function addElementToDocument(element) {
+    document.body.innerHTML += element;
+}
+
 /*
  * Создание элемента для вставки на страницу
  */
